@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Game Of Thrones</string>
+    <string name="title">Game of Thrones</string>
+    <string name="person_icon">person icon</string>
+    <string name="characters_image">characters image</string>
+    <string name="characters_house_image">characters house image</string>
+    <string name="description">Description:</string>
+    <string name="see_detail"><![CDATA[See detail -->]]></string>
+    <string name="detail_character_image">detail character image</string>
+    <string name="actor">Actor:</string>
+    <string name="age">Age:</string>
+    <string name="back_icon">back_icon</string>
+    <string name="filter_house">Filter House</string>
+    <string name="choose_layout">Choose Layout</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_picture">my picture</string>
+    <string name="my_name">Muhammad Rafli Silehu</string>
+    <string name="my_email">raflisilehu20@gmail.com</string>
+    <string name="github_zakoraa">Github: Zakoraa</string>
+    <string name="my_linked_in">LinkedIn: Muhammad Rafli Silehu</string>
+    <string name="share_icon">share_icon</string>
+    <string name="episode_count">Episode Count:</string>
+    <string name="culture">Culture:</string>
+</resources>
